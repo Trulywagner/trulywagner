@@ -1,4 +1,4 @@
-### The plan is to become a one-man band in this testing symphony
+### Hello World 👋
 
 <!--
 **Trulywagner/trulywagner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
